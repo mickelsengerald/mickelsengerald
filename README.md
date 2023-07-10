@@ -15,7 +15,7 @@ Lastly, I wish to express that I am willing to connect with other professionals,
 ## 🧰 Tech Skills
 
 
-JavaScript | React | Redux | TypeScript | MongoDB | Nest | Next | Express | PostgreSQL
+JavaScript | React | Redux | TypeScript | MongoDB | Nest | Next | Express | PostgreSQL | CSS | SASS | HTML
 
 ## 📫 How to reach me
 
