@@ -4,13 +4,13 @@ I'm a proactive and efficient Civil Industrial Engineer and Web Developer, dedic
 
 ## 📘 About me
 
-I possess the skills to work in a team and to lead in a cooperative and respectful manner, aligning myself with the objectives and expectations that are required. In addition, I can perform in high-pressure work environments, reflecting that I can act with persistence, planning, organization, responsibility, punctuality, commitment, flexibility, and proper tolerance to frustration, which facilitates me to prioritize and analyze complex tasks with confidence and achieve successful results, provided with reliability and quality.
+I possess skills to lead and work in a team in a respectful and cooperative way, adapting to the required objectives and expectations. Capable of facing high-pressure and demanding work environments, I act with persistence, organization, responsibility, and punctuality, facilitating the prioritization and analysis of complex tasks to achieve quality results.
 
-In the development of projects and my general work, I impress with achievement motivation, enthusiasm, adequate predisposition, good control of my impulses, and always open to listen to the suggestions and criticisms of others. However, I have also been seen as very demanding, both with myself and with others, because I unintentionally expect that, as a group, we perform at a good pace of work and finish the proposed activities in the established time.
+I'm known for my motivation, enthusiasm, and readiness in my projects and general work. Despite being demanding in work pace and results, I'm always open to listening to suggestions and criticism.
 
-Regarding my ideas and perspectives, I always seek challenging tasks, in which I can create, innovate, or apply work tools that favor and optimize institutional goals and, in the personal area, I hope to acquire experiences that allow me to nourish myself with new knowledge and technologies to keep up to date with current and future trends in the field of civil engineering and web development.
+In search of challenges, I always strive to create and innovate to optimize goals and stay up-to-date with the latest trends in civil engineering and web development.
 
-Lastly, I wish to express that I am willing to connect with other professionals, face and discuss opportunities, or simply learn from others in my field. Feel free to contact me.
+Feel free to contact me.
 
 ## 🧰 Tech Skills
 
